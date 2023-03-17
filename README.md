@@ -7,7 +7,7 @@ Este é um aplicativo simples que exibe um relógio em tempo real. Nele, é poss
 Clone o projeto
 
 ```bash
-  git@github.com:CarlosX26/live-digital-clock.git
+  git clone git@github.com:CarlosX26/live-digital-clock.git
 ```
 
 Entre no diretório do projeto
